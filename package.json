@@ -1,0 +1,13 @@
+{
+  "name":"civicassist-stage3-4",
+  "version":"1.0.0",
+  "private":true,
+  "main":"server.js",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{
+    "express":"^4.21.2",
+    "cookie-parser":"^1.4.7",
+    "multer":"^1.4.5-lts.1",
+    "razorpay":"^2.9.6"
+  }
+}
